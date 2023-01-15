@@ -3,7 +3,6 @@
 <div align="center">
 
   <img src="https://cdn.alexishenry.eu/shared/images/restiloc-logo-full.svg" alt="logo" width="220" height="auto" />
-  <h1>Restiloc</h1>
   
   <p>
     Make it easy for you ❤️
