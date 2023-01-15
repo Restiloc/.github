@@ -25,4 +25,5 @@
 
 * **Alizée Hett** _alias_ [@Dinholu](https://github.com/Dinholu)
 * **Vladimir Sacchetto** _alias_ [@Vladimir9595](https://github.com/Vladimir9595)
+* **Sara Melais** _alias_ [@SaraMLS](https://github.com/SaraMLS)
 * **Alexis Henry** _alias_ [@AlxisHenry](https://github.com/AlxisHenry)
