@@ -21,6 +21,15 @@
 
 <br/>
 
+## :rocket: Repositories
+
+* [**API**](https://github.com/Restiloc/api)
+* [**Docs**](https://github.com/Restiloc/docs)
+* [**Design system**](https://github.com/Restiloc/ui)
+* [**Landing page**](https://github.com/Restiloc/landing)
+* [**Mobile application (RN)**](https://github.com/Restiloc/restiloc)
+* [**Mobile application (Kotlin)**](https://github.com/Restiloc/resiloc2)
+
 ## :wave: Contributors
 
 * **Alizée Hett** _alias_ [@Dinholu](https://github.com/Dinholu)
